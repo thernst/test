@@ -1,0 +1,7 @@
+{
+    "name": "pbs/test",
+    "description": "Test Package",
+    "require": {
+        "php": ">=7.4"
+    }
+}
